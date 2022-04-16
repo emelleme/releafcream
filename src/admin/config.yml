@@ -1,0 +1,6 @@
+backend:
+  name: github
+  repo: emelleme/tea-stack # CHANGE ME
+  branch: master
+  base_url: https://tea-stack.pages.dev # CHANGE ME
+  auth_endpoint: api/auth
